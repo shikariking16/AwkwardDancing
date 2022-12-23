@@ -1,0 +1,48 @@
+/* Modify the background color */
+         
+.navbar-custom {
+    background-color: lightgreen;
+}
+/* Modify brand and text color */
+ 
+.navbar-custom .navbar-brand,
+.navbar-custom .navbar-text {
+    color: #98A8F8;
+}
+
+.main-page {
+    color: #98A8F8;
+}
+
+.my-nav-font {
+    font-family: Arial, sans-serif;
+    font-size: 15px;
+    background-color: #CDFCF6;
+  }
+
+html,body {
+    background-color: #FAF7F0;
+}
+
+h1 {
+    color: black;
+}
+
+.main-page h2{
+    color: #98A8F8;
+    text-align: center;
+    
+}
+
+.no-underline {
+    text-decoration: none;
+  }
+
+
+  nav {
+    display: flex;  /* display the navbar as a flex container */
+    margin: auto;   /* center the navbar horizontally on the page */
+    background-color: transparent;  /* remove the navbar's background color */
+  }
+
+
